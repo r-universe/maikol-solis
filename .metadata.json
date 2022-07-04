@@ -2,5 +2,9 @@
   {
     "package": "sobolnp",
     "oncran": true
+  },
+  {
+    "package": "spatgeom",
+    "oncran": true
   }
 ]

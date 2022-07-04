@@ -8,3 +8,8 @@
 	url = https://github.com/maikol-solis/sobolnp
 	shallow = true
 	registered = true
+[submodule "spatgeom"]
+	path = spatgeom
+	url = https://github.com/maikol-solis/spatgeom
+	shallow = true
+	registered = true
